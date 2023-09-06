@@ -1,0 +1,15 @@
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/bin/Debug/net7.0/BirthdayGuesser
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/bin/Debug/net7.0/BirthdayGuesser.deps.json
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/bin/Debug/net7.0/BirthdayGuesser.runtimeconfig.json
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/bin/Debug/net7.0/BirthdayGuesser.dll
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/bin/Debug/net7.0/BirthdayGuesser.pdb
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/obj/Debug/net7.0/BirthdayGuesser.csproj.AssemblyReference.cache
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/obj/Debug/net7.0/BirthdayGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/obj/Debug/net7.0/BirthdayGuesser.AssemblyInfoInputs.cache
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/obj/Debug/net7.0/BirthdayGuesser.AssemblyInfo.cs
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/obj/Debug/net7.0/BirthdayGuesser.csproj.CoreCompileInputs.cache
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/obj/Debug/net7.0/BirthdayGuesser.dll
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/obj/Debug/net7.0/refint/BirthdayGuesser.dll
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/obj/Debug/net7.0/BirthdayGuesser.pdb
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/obj/Debug/net7.0/BirthdayGuesser.genruntimeconfig.cache
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/BirthdayGuesser/obj/Debug/net7.0/ref/BirthdayGuesser.dll
