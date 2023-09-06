@@ -11,7 +11,7 @@ class Program
         Console.Write("Enter the season (Spring/Summer/Fall/Winter): ");
         string season = Console.ReadLine();
 
-        season = season.ToUpper(); // Convert to uppercase for consistency
+        season = season.ToUpper();
 
         int targetMonth;
 
@@ -36,15 +36,15 @@ class Program
 
         Console.WriteLine($"Your birthday is in the {season} season, which starts with the month of {GetMonthName(targetMonth)}.");
 
-        string monthResponse = "no"; // Initialize to "no" to enter the while loop
+        string monthResponse = "no";
         int counterMonthGuess = 0;
 
-        while (monthResponse == "no") // Corrected the condition
+        while (monthResponse == "no")
         {
             if (counterMonthGuess > 2)
             {
                 Console.WriteLine("Sorry, we couldn't guess your birthday. Try again later.");
-                return; // Exit the program
+                return;
             }
 
             Console.WriteLine($"Is your birthday in {GetMonthName(targetMonth)}? (yes/no)");
@@ -56,7 +56,7 @@ class Program
             }
             else
             {
-                targetMonth++; // Increment the month
+                targetMonth++;
             }
 
             counterMonthGuess++;
