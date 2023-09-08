@@ -1,0 +1,5 @@
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/leetcode_problem1/obj/Debug/net7.0/leetcode_problem1.csproj.AssemblyReference.cache
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/leetcode_problem1/obj/Debug/net7.0/leetcode_problem1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/leetcode_problem1/obj/Debug/net7.0/leetcode_problem1.AssemblyInfoInputs.cache
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/leetcode_problem1/obj/Debug/net7.0/leetcode_problem1.AssemblyInfo.cs
+/Users/andrewsegovia/code/CSharp_.NET/CS_.NET/leetcode_problem1/obj/Debug/net7.0/leetcode_problem1.csproj.CoreCompileInputs.cache
